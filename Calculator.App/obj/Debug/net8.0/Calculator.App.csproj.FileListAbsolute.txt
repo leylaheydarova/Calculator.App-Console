@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\CSharp Pseudo Real Practice 09\Calculator.App\Calculator.App\bin\Debug\net8.0\Calculator.App.exe
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\CSharp Pseudo Real Practice 09\Calculator.App\Calculator.App\bin\Debug\net8.0\Calculator.App.deps.json
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\CSharp Pseudo Real Practice 09\Calculator.App\Calculator.App\bin\Debug\net8.0\Calculator.App.runtimeconfig.json
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\CSharp Pseudo Real Practice 09\Calculator.App\Calculator.App\bin\Debug\net8.0\Calculator.App.dll
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\CSharp Pseudo Real Practice 09\Calculator.App\Calculator.App\bin\Debug\net8.0\Calculator.App.pdb
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\CSharp Pseudo Real Practice 09\Calculator.App\Calculator.App\obj\Debug\net8.0\Calculator.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\CSharp Pseudo Real Practice 09\Calculator.App\Calculator.App\obj\Debug\net8.0\Calculator.App.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\CSharp Pseudo Real Practice 09\Calculator.App\Calculator.App\obj\Debug\net8.0\Calculator.App.AssemblyInfo.cs
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\CSharp Pseudo Real Practice 09\Calculator.App\Calculator.App\obj\Debug\net8.0\Calculator.App.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\CSharp Pseudo Real Practice 09\Calculator.App\Calculator.App\obj\Debug\net8.0\Calculator.App.dll
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\CSharp Pseudo Real Practice 09\Calculator.App\Calculator.App\obj\Debug\net8.0\refint\Calculator.App.dll
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\CSharp Pseudo Real Practice 09\Calculator.App\Calculator.App\obj\Debug\net8.0\Calculator.App.pdb
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\CSharp Pseudo Real Practice 09\Calculator.App\Calculator.App\obj\Debug\net8.0\Calculator.App.genruntimeconfig.cache
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\CSharp Pseudo Real Practice 09\Calculator.App\Calculator.App\obj\Debug\net8.0\ref\Calculator.App.dll
